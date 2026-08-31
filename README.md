@@ -17,9 +17,10 @@ Inside my homelab I will be focusing on learning the following:
 
 I'm setting up the environment with something like this:
 
-VirtualBox is used for the virtualization. 
-Ubuntu machine to run the SIEM server with Wazuh.
-Another Ubuntu machine will be the target and Kali linux will be used perform the various attacks.
+VirtualBox for the architecture. 
+Ubuntu for the SIEM server.
+Ubuntu for the target endpoint.
+Kali linux for the threat actor.
 
 ## Project Status
 
